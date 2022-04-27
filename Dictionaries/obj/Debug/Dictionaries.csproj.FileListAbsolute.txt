@@ -1,0 +1,7 @@
+C:\Users\aleks\Desktop\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe.config
+C:\Users\aleks\Desktop\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe
+C:\Users\aleks\Desktop\Dictionaries\Dictionaries\bin\Debug\Dictionaries.pdb
+C:\Users\aleks\Desktop\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Dictionaries\Dictionaries\obj\Debug\Dictionaries.exe
+C:\Users\aleks\Desktop\Dictionaries\Dictionaries\obj\Debug\Dictionaries.pdb
